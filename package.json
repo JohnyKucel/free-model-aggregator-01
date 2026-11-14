@@ -1,0 +1,1 @@
+{"description":"Best free AI model aggregator: one server for the OpenAI and Anthropic APIs over ten simulated free-tier providers.","license":"MIT","name":"free-model-aggregator-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
